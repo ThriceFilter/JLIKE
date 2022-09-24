@@ -1,4 +1,4 @@
-#include "jlike.h"
+#include "JLIKE.h"
 
 int main()
 {
